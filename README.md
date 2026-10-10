@@ -1,7 +1,9 @@
 # 希沃课堂助手 · 翻页按钮位置修补工具
+<img width="1866" height="1220" alt="70fff5d5e1bed17e9f5d0a3aa9f9fc24" src="https://github.com/user-attachments/assets/855b69ad-612b-436e-a4da-62ea86221a7b" />
+<img width="825" height="545" alt="image" src="https://github.com/user-attachments/assets/9c5206ce-2bce-4d2f-9adb-d93d8602dd5e" />
 
 把希沃课堂助手（原 PPT 小工具）放映批注时**屏幕左右两侧居中**的翻页按钮，
-移动到**左下角 / 右下角**。支持一键修补、一键还原。
+移动到**左下角 / 右下角**，避免与 PowerPoint 在大屏幕触屏一体机上接收触控时的快捷工具栏重叠。支持一键修补、一键还原。
 
 ## 文件说明
 
@@ -93,6 +95,6 @@ PPT 助手的翻页按钮（`LeftSlideManagerArea` / `RightSlideManagerArea`）�
 
 ## 声明
 
-- 该项目由 GLM-5.3-Flash 生成
-- 只对 0.0.3.1309 版本测试通过，未测试其他版本
+- 该项目由 `GLM-5.3-Flash` 生成
+- 只对 `0.0.3.1309` 版本测试通过，未测试其他版本
 - 使用后发生的异常情况与作者无关。如果修补后希沃课堂助手无法使用，建议卸载重装
